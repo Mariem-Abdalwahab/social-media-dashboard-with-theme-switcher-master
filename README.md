@@ -3,6 +3,7 @@
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+## Project Link: https://mariem25.github.io/social-media-dashboard-with-theme-switcher-master/
 
 Thanks for checking out this front-end coding challenge.
 
